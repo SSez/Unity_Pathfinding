@@ -2,12 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-Logs/
-/Logs/
-Logs/*
-/Logs/*
 
->>>>>>> Stashed changes
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
